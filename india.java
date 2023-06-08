@@ -1,4 +1,4 @@
-
+India is my conuntry.and
 all india are my brother and sisters
 
 git checkout --no-track -b dev_ajay dev-pavan --
@@ -9,8 +9,6 @@ Switched to a new branch 'dev_akashay'
 
 git checkout -b dev_manish master
 
-
-git  merge dev_manish
 
 
 ------master --- mainline 
